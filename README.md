@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Developer**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **JAVA DEVELOPER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
